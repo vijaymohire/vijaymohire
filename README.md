@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Vijay Mohire  
+**Founder, Bhadale IT Hub | QAI Processor & Datacenter Architect**
 
-<!--
-**vijaymohire/vijaymohire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile — home to Quantum AI (QAI) research, processor architectures, operating systems, and patent frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Featured Work
+- [QAI_Processor](https://github.com/vijaymohire/QAI_Processor)
+- [QAI_OS](https://github.com/vijaymohire/QAI_OS)
+- [QAI_Datacenter](https://github.com/vijaymohire/QAI_Datacenter)
+- [QAI_Foundry_Patentable_Items](https://github.com/vijaymohire/QAI_Foundry_Patentable_Items)
+
+---
+
+### 🚀 Mission
+To build an intelligent, hybrid, Quantum–AI computational ecosystem supporting processors, datacenters, OS, robotics, and advanced industrial applications.
+
+---
+
+### 📫 Connect
+- LinkedIn: [linkedin.com/in/vijaymohire](https://linkedin.com/in/vijaymohire)
+- Email: vijaymohire@bhadaleit.com
+- GitLab (Private IP Work): Available upon NDA or partnership request.
+
+---
+
+_“From Quantum Theory to Applied Intelligence — shaping the next era of computation.”_
