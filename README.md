@@ -171,8 +171,11 @@ This ensures clear traceability of invention disclosures, authorship, and jurisd
 - Access to private repositories or internal documentation requires **authorization through Bhadale IT Hub Legal Board**.  
 
 ---
+```
 
-![Quantum AI Foundry — Bhadale IT Hub](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Quantum+AI+Foundry+%7C+Bhadale+IT+Hub+%7C+Est.+2025)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vijaymohire/vijaymohire/main/banner.svg" alt="Bhadale IT Hub — Quantum AI Foundry" style="width:100%; max-height:300px; object-fit:cover;" />
+</p>
 
 **© 2025 Bhadale IT Hub · Quantum AI Foundry**  
 “From Quantum Fields to Applied Intelligence”
