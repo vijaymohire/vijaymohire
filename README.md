@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&width=900&lines=Quantum+AI+Processors+%7C+Datacenters+%7C+OS+%7C+Robotics+%7C+IP+Lifecycle+Management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&width=950&lines=Quantum+AI+Processors+%7C+Datacenters+%7C+OS+%7C+Robotics+%7C+IP+Lifecycle+Management" alt="Typing SVG" />
 </p>
 
 ---
@@ -94,14 +94,10 @@ For collaborative or NDA-bound modules, request access through email or LinkedIn
 📊 Automated Metrics & Reports
 
 The _Reports_and_Analytics/metrics_collector.py utility (available upon request) automatically:
-
-Collects GitHub engagement metrics (⭐ stars, 🍴 forks, 🧠 contributors, 🧮 language composition)
-
-Generates .json, .csv, and .xlsx summaries
-
-Supports investor dashboards and valuation tracking
-
-Integrates with QAI Ops for organization-wide analytics
+- Collects GitHub engagement metrics (⭐ stars, 🍴 forks, 🧠 contributors, 🧮 language composition)
+- Generates .json, .csv, and .xlsx summaries
+- Supports investor dashboards and valuation tracking
+- Integrates with QAI Ops for organization-wide analytics
 
 ---
 
@@ -124,7 +120,7 @@ Integrates with QAI Ops for organization-wide analytics
 
 📬 **Contact Channels**
 
-- Email: `vijaymohire@bhadaleithub.com`  
+- Email: `vijaymohire@bhadaleit.com`  
 - LinkedIn: [linkedin.com/in/vijaymohire](https://linkedin.com/in/vijaymohire)  
 - GitLab (Private IP Access): available for vetted partners under NDA  
 - Investor/VC communications: via secure virtual data room (on request)
@@ -180,7 +176,7 @@ This ensures clear traceability of invention disclosures, authorship, and jurisd
 **© 2025 Bhadale IT Hub · Quantum AI Foundry**  
 “From Quantum Fields to Applied Intelligence”
 
-_Last updated: YYYY-MM-DD_
+_Last updated: 2025-11-01_
 
 
 
