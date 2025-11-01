@@ -132,7 +132,6 @@ Integrates with QAI Ops for organization-wide analytics
 > *All partnership discussions follow Bhadale IT Hub’s internal legal, compliance, and confidentiality frameworks.*
 
 ---
----
 
 ## 📜 Legal & Compliance
 
@@ -173,16 +172,14 @@ This ensures clear traceability of invention disclosures, authorship, and jurisd
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Quantum+AI+Foundry+%7C+Bhadale+IT+Hub+%7C+Est.+2025" alt="Typing SVG" />
-</p>
+![Quantum AI Foundry — Bhadale IT Hub](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Quantum+AI+Foundry+%7C+Bhadale+IT+Hub+%7C+Est.+2025)
 
-<p align="center">
-  <b>© 2025 Bhadale IT Hub · Quantum AI Foundry</b><br>
-  “From Quantum Fields to Applied Intelligence”
-</p>
+**© 2025 Bhadale IT Hub · Quantum AI Foundry**  
+“From Quantum Fields to Applied Intelligence”
 
 _Last updated: YYYY-MM-DD_
+
+
 
 
 
