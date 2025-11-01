@@ -1,6 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
-  <rect width="1280" height="300" fill="#061A40"/>
-  <text x="60" y="120" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#00E5FF">Bhadale IT Hub · Quantum AI Foundry</text>
-  <text x="60" y="160" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#C7F7FF">From Quantum Fields to Applied Intelligence — QAI Processors • Datacenters • OS</text>
-  <text x="980" y="200" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#00E5FF">Est. 2025</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Bhadale IT Hub banner compact">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#081834"/>
+      <stop offset="1" stop-color="#00365A"/>
+    </linearGradient>
+    <linearGradient id="logoGrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#00DFFF"/>
+      <stop offset="1" stop-color="#0077FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+
+  <!-- circular logo mark -->
+  <g transform="translate(70,60)">
+    <circle cx="60" cy="60" r="60" fill="url(#logoGrad)"/>
+    <g transform="translate(30,30)" fill="#021326">
+      <rect x="24" y="6" width="12" height="36" rx="3"/>
+      <rect x="6" y="24" width="36" height="12" rx="3"/>
+    </g>
+  </g>
+
+  <!-- title -->
+  <g transform="translate(180,110)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="0" font-size="40" fill="#00F0FF" font-weight="800">Bhadale IT Hub</text>
+    <text x="0" y="36" font-size="20" fill="#C8F8FF">Quantum AI Foundry · Processors · Datacenters · OS</text>
+  </g>
+
+  <!-- tagline right -->
+  <text x="940" y="245" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#9FEAFF">From Quantum Fields to Applied Intelligence</text>
+  <text x="940" y="270" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#00E5FF">© 2025 Bhadale IT Hub</text>
 </svg>
+
