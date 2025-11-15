@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Optional banner: replace with your uploaded image -->
-  <img src="https://raw.githubusercontent.com/vijaymohire/vijaymohire/main/banner.png" alt="Bhadale IT Hub — Quantum AI Foundry" style="width:100%;max-height:300px;object-fit:cover;">
+  <img src="https://raw.githubusercontent.com/vijaymohire/vijaymohire/main/banner.svg" alt="Bhadale IT Hub — Quantum AI Foundry" style="width:100%;max-height:300px;object-fit:cover;">
 </p>
 
 **Architect of the Quantum AI Ecosystem — integrating processors, datacenters, operating systems, robotics, and patent frameworks into a unified, intelligent infrastructure.**
