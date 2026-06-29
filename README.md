@@ -278,7 +278,7 @@ This ensures clear traceability of invention disclosures, authorship, and jurisd
 - Access to private repositories or internal documentation requires **authorization through Bhadale IT Hub Legal Board**.  
 
 ---
-```
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vijaymohire/vijaymohire/main/banner.svg" alt="Bhadale IT Hub — Quantum AI Foundry" style="width:100%; max-height:300px; object-fit:cover;" />
