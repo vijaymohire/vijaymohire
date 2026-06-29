@@ -196,17 +196,117 @@ The **Reports_and_Analytics/metrics_collector.py** utility (available upon reque
 
 ---
 
+
+<!-- ======================================================= -->
+<!-- Featured Releases -->
+<!-- ======================================================= -->
+
+<h2 align="center">🚀 Featured Releases</h2>
+
 <p align="center">
+The latest stable milestones from the <b>Bhadale IT Hub Quantum AI Foundry</b>.
+</p>
 
-<b>🎉 Featured Release</b>
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Latest Release</th>
+<th>Status</th>
+<th>Description</th>
+</tr>
 
-<br><br>
+<tr>
+<td>
+<a href="https://github.com/vijaymohire/faep-academy"><b>🎓 FAEP Academy</b></a>
+</td>
+
+<td align="center">
 
 <a href="https://github.com/vijaymohire/faep-academy/releases/latest">
-
-<img src="https://img.shields.io/badge/FAEP%20Academy-v1.0.0-success?style=for-the-badge" />
-
+<img src="https://img.shields.io/github/v/release/vijaymohire/faep-academy?style=flat-square">
 </a>
+
+<br>
+
+<a href="https://github.com/vijaymohire/faep-academy/releases/latest">
+<img src="https://img.shields.io/github/release-date/vijaymohire/faep-academy?style=flat-square">
+</a>
+
+</td>
+
+<td align="center">✅ Stable</td>
+
+<td>
+Engineering Education, Research & Innovation Ecosystem
+</td>
+
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/vijaymohire/faep-client-lab"><b>🧪 FAEP Client Lab</b></a>
+</td>
+
+<td align="center">
+
+<a href="https://github.com/vijaymohire/faep-client-lab/releases/latest">
+<img src="https://img.shields.io/github/v/release/vijaymohire/faep-client-lab?style=flat-square">
+</a>
+
+<br>
+
+<a href="https://github.com/vijaymohire/faep-client-lab/releases/latest">
+<img src="https://img.shields.io/github/release-date/vijaymohire/faep-client-lab?style=flat-square">
+</a>
+
+</td>
+
+<td align="center">🟢 Baseline</td>
+
+<td>
+Client Engineering Execution Environment
+</td>
+
+</tr>
+
+<tr>
+<td><b>🧠 QAI Processor</b></td>
+<td align="center">Coming Soon</td>
+<td align="center">🚧</td>
+<td>Hybrid Quantum AI Processor</td>
+</tr>
+
+<tr>
+<td><b>🧩 QAI OS</b></td>
+<td align="center">Coming Soon</td>
+<td align="center">🚧</td>
+<td>Quantum AI Operating System</td>
+</tr>
+
+<tr>
+<td><b>🛰️ QAI Datacenter</b></td>
+<td align="center">Coming Soon</td>
+<td align="center">🚧</td>
+<td>Software-Defined Quantum AI Datacenter</td>
+</tr>
+
+<tr>
+<td><b>🏗️ QAI Product Foundry</b></td>
+<td align="center">Coming Soon</td>
+<td align="center">🚧</td>
+<td>Product Lifecycle & Innovation Platform</td>
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+<i>
+The Quantum AI ecosystem continues to evolve through versioned public releases,
+engineering laboratories, reference implementations and open engineering resources.
+</i>
 
 </p>
 
