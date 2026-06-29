@@ -13,6 +13,11 @@
 [![Org](https://img.shields.io/badge/Bhadale_IT_Hub-Quantum_AI_Foundry-blue?style=flat-square)]()
 [![License](https://img.shields.io/badge/license-Proprietary%20IP-lightgrey.svg)]()
 
+
+[![FAEP Academy Release](https://img.shields.io/github/v/release/vijaymohire/faep-academy?label=FAEP%20Academy&style=flat-square)](https://github.com/vijaymohire/faep-academy/releases/latest)
+[![Last Release](https://img.shields.io/github/release-date/vijaymohire/faep-academy?style=flat-square)](https://github.com/vijaymohire/faep-academy/releases/latest)
+[![FAEP Academy Repo](https://img.shields.io/badge/Flagship-FAEP%20Academy-success?style=flat-square)](https://github.com/vijaymohire/faep-academy)
+
 ---
 
 <p align="center">
@@ -20,6 +25,7 @@
 </p>
 
 ---
+
 
 ## 🧩 Bhadale IT Hub — Core Quantum AI Portfolio
 
